@@ -1,0 +1,2653 @@
+{
+    "ai_map": {
+        "footprint": "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"
+    },
+    "class_id": "com-snaplogic-pipeline",
+    "class_version": 9,
+    "link_map": {
+        "link420": {
+            "dst_id": "11111111-1111-1111-1111-000000000001",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000000",
+            "src_view_id": "outputResponse"
+        },
+        "link421": {
+            "dst_id": "11111111-1111-1111-1111-000000000002",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000001",
+            "src_view_id": "output0"
+        },
+        "link422": {
+            "dst_id": "11111111-1111-1111-1111-000000000003",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000002",
+            "src_view_id": "output0"
+        },
+        "link423": {
+            "dst_id": "11111111-1111-1111-1111-000000000004",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000003",
+            "src_view_id": "outputResponse"
+        },
+        "link424": {
+            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000004",
+            "src_view_id": "output0"
+        },
+        "link425": {
+            "dst_id": "11111111-1111-1111-1111-000000000006",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000005",
+            "src_view_id": "output0"
+        },
+        "link426": {
+            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000006",
+            "src_view_id": "output0"
+        },
+        "link427": {
+            "dst_id": "11111111-1111-1111-1111-000000000009",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000008",
+            "src_view_id": "output0"
+        },
+        "link428": {
+            "dst_id": "11111111-1111-1111-1111-00000000000a",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_view_id": "output0"
+        },
+        "link429": {
+            "dst_id": "11111111-1111-1111-1111-00000000000b",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_view_id": "output0"
+        },
+        "link430": {
+            "dst_id": "11111111-1111-1111-1111-00000000000f",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000b",
+            "src_view_id": "output0"
+        },
+        "link431": {
+            "dst_id": "11111111-1111-1111-1111-00000000000c",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_view_id": "output1"
+        },
+        "link432": {
+            "dst_id": "11111111-1111-1111-1111-000000000010",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000c",
+            "src_view_id": "output0"
+        },
+        "link433": {
+            "dst_id": "11111111-1111-1111-1111-00000000000d",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_view_id": "output2"
+        },
+        "link434": {
+            "dst_id": "11111111-1111-1111-1111-000000000011",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000d",
+            "src_view_id": "output0"
+        },
+        "link435": {
+            "dst_id": "11111111-1111-1111-1111-00000000000e",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_view_id": "output3"
+        },
+        "link436": {
+            "dst_id": "11111111-1111-1111-1111-000000000012",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000e",
+            "src_view_id": "output0"
+        },
+        "link437": {
+            "dst_id": "11111111-1111-1111-1111-000000000013",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000012",
+            "src_view_id": "output0"
+        },
+        "link438": {
+            "dst_id": "11111111-1111-1111-1111-000000000007",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000005",
+            "src_view_id": "output1"
+        },
+        "link439": {
+            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_view_id": "input1",
+            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_view_id": "output0"
+        }
+    },
+    "property_map": {
+        "error": {
+            "error_behavior": {
+                "value": "none"
+            }
+        },
+        "info": {
+            "author": {
+                "value": "workshops+user51@snaplogic.com"
+            },
+            "label": {},
+            "notes": {
+                "value": "Need to pass zip code as parameter of the pipeline\nNeed to enhance to pass postal code and find alternative api to use weather network"
+            },
+            "pipeline_doc_uri": {
+                "value": "https://open-meteo.com/en/docs"
+            },
+            "purpose": {
+                "value": "The purpose of this pipeline is to generate excel file of temperature by date and hour of a particular zip code.  the Excel sheet will contain list of date, time, and temperature."
+            }
+        },
+        "input": {
+            "11111111-1111-1111-1111-000000000000_input0": {
+                "label": {
+                    "value": "Fetch ZIP Code Location Data - input0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "output": {
+            "11111111-1111-1111-1111-00000000000a_output3": {
+                "label": {
+                    "value": "Copy Weather Records for Multiple Output Formats - output3"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "settings": {
+            "error_param_table": {
+                "value": []
+            },
+            "error_pipeline": {
+                "expression": false,
+                "value": null
+            },
+            "imports": {
+                "value": []
+            },
+            "param_table": {
+                "value": [
+                    {
+                        "capture": {
+                            "value": true
+                        },
+                        "data_type": {
+                            "value": "string"
+                        },
+                        "description": {
+                            "value": "Enter the zip code you want to get daily and hourly temperature"
+                        },
+                        "key": {
+                            "value": "p_postalcode"
+                        },
+                        "required": {
+                            "value": true
+                        },
+                        "value": {
+                            "value": "90210"
+                        }
+                    }
+                ]
+            },
+            "tags": {
+                "value": []
+            }
+        }
+    },
+    "render_map": {
+        "default_snaplex": null,
+        "detail_map": {
+            "11111111-1111-1111-1111-000000000000": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 2,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000001": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 3,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000002": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 4,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000003": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 5,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000004": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 6,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000005": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 7,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {
+                    "output1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000006": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 8,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000007": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 8,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000008": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 9,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {
+                    "input1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000009": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 10,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000a": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 11,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {
+                    "output1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    },
+                    "output2": {
+                        "dx_int": 0,
+                        "dy_int": 2,
+                        "rot_int": 0
+                    },
+                    "output3": {
+                        "dx_int": 0,
+                        "dy_int": 3,
+                        "rot_int": 0
+                    }
+                },
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000b": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000c": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000d": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000e": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 5,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000f": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 13,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000010": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 13,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000011": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 13,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000012": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 13,
+                "grid_y_int": 5,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000013": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 14,
+                "grid_y_int": 5,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            }
+        },
+        "notes": {
+            "4127d540-c757-4fe3-8921-e1da8429fdd5": {
+                "content": "This version currently gets temperation in Farenheit for list of dates and hours for USA zip codes. \nNeed to enhance this pipeline  to add paramter to either call USA or CAN http client to get temperatures for dates and times.\n",
+                "created": "2026-06-29T15:59:18.108Z",
+                "creator": "Workshop User51",
+                "height": "126px",
+                "width": "583px",
+                "x": -1.0486738336393155,
+                "y": 154.1588680670753
+            },
+            "69804397-ac74-4822-9991-8f7ee4973fc0": {
+                "content": "Need to change the third format to use python script in order to genertate a nicer excel sheet with colored header, filters, and make all columns left justify.\nThe 3rd output can be removed when the python script is working ok.",
+                "created": "2026-06-29T16:01:23.792Z",
+                "creator": "Workshop User51",
+                "height": 150,
+                "width": 200,
+                "x": 497.1938066825442,
+                "y": 276.7465071735235
+            }
+        },
+        "pan_x_num": 0,
+        "pan_y_num": 0,
+        "scale_ratio": 1,
+        "snapgpt_extra": {
+            "no_wizard": {
+                "value": true
+            }
+        }
+    },
+    "snap_map": {
+        "11111111-1111-1111-1111-000000000000": {
+            "class_id": "com-snaplogic-snaps-apisuite-httpclient",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000000",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Fetch ZIP Code Location Data"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "outputResponse": {
+                        "label": {
+                            "value": "Response"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "clientProperties": {
+                        "value": {
+                            "connection": {
+                                "value": {
+                                    "connTimeout": {
+                                        "value": 30
+                                    },
+                                    "cookiePolicy": {
+                                        "value": "RFC Lax"
+                                    },
+                                    "diskStagingProp": {
+                                        "value": false
+                                    },
+                                    "readTimeout": {
+                                        "value": 900
+                                    },
+                                    "trustAllCerts": {
+                                        "value": false
+                                    }
+                                }
+                            },
+                            "outputProps": {
+                                "value": {
+                                    "errorRespToErrorview": {
+                                        "value": true
+                                    },
+                                    "extractEntity": {
+                                        "value": false
+                                    },
+                                    "extractEntityPath": {
+                                        "expression": true,
+                                        "value": "$.entity"
+                                    },
+                                    "includeCookies": {
+                                        "value": false
+                                    },
+                                    "responseType": {
+                                        "value": "JSON"
+                                    }
+                                }
+                            },
+                            "redirects": {
+                                "value": {
+                                    "allowCircularRedirect": {
+                                        "value": false
+                                    },
+                                    "allowRelativeRedirect": {
+                                        "value": true
+                                    },
+                                    "followOriginalMethod": {
+                                        "value": false
+                                    },
+                                    "followRedirection": {
+                                        "value": true
+                                    },
+                                    "maxRedirect": {
+                                        "expression": false,
+                                        "value": 10
+                                    }
+                                }
+                            },
+                            "retry": {
+                                "value": {
+                                    "autoRetry429": {
+                                        "value": true
+                                    },
+                                    "maxRetry": {
+                                        "value": 5
+                                    },
+                                    "retryCondition": {
+                                        "value": "Connection Errors"
+                                    },
+                                    "retryInterval": {
+                                        "value": 3
+                                    },
+                                    "useRetryAfterHeader": {
+                                        "value": true
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "enableDebug": {
+                        "value": true
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "formEncodeSpace": {
+                        "value": false
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "httpEntity": {
+                        "value": {
+                            "binaryFile": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "entityType": {
+                                "value": "none"
+                            },
+                            "multipartForm": {
+                                "value": [
+                                    {
+                                        "partContentType": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "partKey": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "partType": {
+                                            "value": "Text"
+                                        },
+                                        "partValue": {
+                                            "expression": false,
+                                            "value": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "multipartSubtype": {
+                                "expression": false,
+                                "value": "form-data"
+                            },
+                            "rawEntity": {
+                                "expression": true,
+                                "value": "$"
+                            },
+                            "urlEncodedForm": {
+                                "value": []
+                            }
+                        }
+                    },
+                    "httpMethod": {
+                        "expression": false,
+                        "value": "GET"
+                    },
+                    "pagination": {
+                        "value": {
+                            "hasNext": {
+                                "expression": true,
+                                "value": null
+                            },
+                            "maxPage": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "nextUrl": {
+                                "expression": true,
+                                "value": null
+                            },
+                            "overrideHeaders": {
+                                "value": [
+                                    {
+                                        "overrideHeaderName": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "overrideHeaderValue": {
+                                            "expression": true,
+                                            "value": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "overrideParams": {
+                                "value": [
+                                    {
+                                        "overrideParamName": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "overrideParamValue": {
+                                            "expression": true,
+                                            "value": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "overrideURI": {
+                                "value": false
+                            },
+                            "paginationInterval": {
+                                "value": 0
+                            },
+                            "reuseParamsForPagination": {
+                                "value": false
+                            }
+                        }
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "queryParam": {
+                        "value": []
+                    },
+                    "uri": {
+                        "expression": true,
+                        "value": "\"https://api.zippopotam.us/us/\" + _p_postalcode"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000001": {
+            "class_id": "com-snaplogic-snaps-transform-jsonsplitter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000001",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Split Places Array"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "excludeList": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "includeParents": {
+                        "value": false
+                    },
+                    "includePaths": {
+                        "value": []
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "path": {
+                        "value": "$entity.places"
+                    },
+                    "showNullValues": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000002": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000002",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Extract Latitude and Longitude"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$latitude"
+                                        },
+                                        "targetPath": {
+                                            "value": "$lat"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$longitude"
+                                        },
+                                        "targetPath": {
+                                            "value": "$long"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000003": {
+            "class_id": "com-snaplogic-snaps-apisuite-httpclient",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000003",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Fetch Hourly Weather Forecast"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "outputResponse": {
+                        "label": {
+                            "value": "Response"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "clientProperties": {
+                        "value": {
+                            "connection": {
+                                "value": {
+                                    "connTimeout": {
+                                        "value": 30
+                                    },
+                                    "cookiePolicy": {
+                                        "value": "RFC Lax"
+                                    },
+                                    "diskStagingProp": {
+                                        "value": false
+                                    },
+                                    "readTimeout": {
+                                        "value": 900
+                                    },
+                                    "trustAllCerts": {
+                                        "value": false
+                                    }
+                                }
+                            },
+                            "outputProps": {
+                                "value": {
+                                    "errorRespToErrorview": {
+                                        "value": true
+                                    },
+                                    "extractEntity": {
+                                        "value": false
+                                    },
+                                    "extractEntityPath": {
+                                        "expression": true,
+                                        "value": "$.entity"
+                                    },
+                                    "includeCookies": {
+                                        "value": false
+                                    },
+                                    "responseType": {
+                                        "value": "JSON"
+                                    }
+                                }
+                            },
+                            "redirects": {
+                                "value": {
+                                    "allowCircularRedirect": {
+                                        "value": false
+                                    },
+                                    "allowRelativeRedirect": {
+                                        "value": true
+                                    },
+                                    "followOriginalMethod": {
+                                        "value": false
+                                    },
+                                    "followRedirection": {
+                                        "value": true
+                                    },
+                                    "maxRedirect": {
+                                        "expression": false,
+                                        "value": 10
+                                    }
+                                }
+                            },
+                            "retry": {
+                                "value": {
+                                    "autoRetry429": {
+                                        "value": true
+                                    },
+                                    "maxRetry": {
+                                        "value": 5
+                                    },
+                                    "retryCondition": {
+                                        "value": "Connection Errors"
+                                    },
+                                    "retryInterval": {
+                                        "value": 3
+                                    },
+                                    "useRetryAfterHeader": {
+                                        "value": true
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "enableDebug": {
+                        "value": true
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "formEncodeSpace": {
+                        "value": false
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "httpEntity": {
+                        "value": {
+                            "binaryFile": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "entityType": {
+                                "value": "none"
+                            },
+                            "multipartForm": {
+                                "value": [
+                                    {
+                                        "partContentType": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "partKey": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "partType": {
+                                            "value": "Text"
+                                        },
+                                        "partValue": {
+                                            "expression": false,
+                                            "value": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "multipartSubtype": {
+                                "expression": false,
+                                "value": "form-data"
+                            },
+                            "rawEntity": {
+                                "expression": true,
+                                "value": "$"
+                            },
+                            "urlEncodedForm": {
+                                "value": []
+                            }
+                        }
+                    },
+                    "httpMethod": {
+                        "expression": false,
+                        "value": "GET"
+                    },
+                    "pagination": {
+                        "value": {
+                            "hasNext": {
+                                "expression": true,
+                                "value": null
+                            },
+                            "maxPage": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "nextUrl": {
+                                "expression": true,
+                                "value": null
+                            },
+                            "overrideHeaders": {
+                                "value": [
+                                    {
+                                        "overrideHeaderName": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "overrideHeaderValue": {
+                                            "expression": true,
+                                            "value": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "overrideParams": {
+                                "value": [
+                                    {
+                                        "overrideParamName": {
+                                            "expression": false,
+                                            "value": null
+                                        },
+                                        "overrideParamValue": {
+                                            "expression": true,
+                                            "value": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "overrideURI": {
+                                "value": false
+                            },
+                            "paginationInterval": {
+                                "value": 0
+                            },
+                            "reuseParamsForPagination": {
+                                "value": false
+                            }
+                        }
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "queryParam": {
+                        "value": [
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "hourly"
+                                },
+                                "paramValProp": {
+                                    "expression": false,
+                                    "value": "temperature_2m"
+                                }
+                            },
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "temperature_unit"
+                                },
+                                "paramValProp": {
+                                    "expression": false,
+                                    "value": "fahrenheit"
+                                }
+                            },
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "latitude"
+                                },
+                                "paramValProp": {
+                                    "expression": true,
+                                    "value": "$lat"
+                                }
+                            },
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "longitude"
+                                },
+                                "paramValProp": {
+                                    "expression": true,
+                                    "value": "$long"
+                                }
+                            }
+                        ]
+                    },
+                    "uri": {
+                        "expression": false,
+                        "value": "https://api.open-meteo.com/v1/forecast"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000004": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000004",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Extract Hourly Time and Temperature Arrays"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$entity.hourly.time.map(x => Date.parse(x))"
+                                        },
+                                        "targetPath": {
+                                            "value": "Hour"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$entity.hourly.temperature_2m"
+                                        },
+                                        "targetPath": {
+                                            "value": "Temperature"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000005": {
+            "class_id": "com-snaplogic-snaps-flow-copy",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Copy Weather Arrays for Parallel Splitting"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "output1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000006": {
+            "class_id": "com-snaplogic-snaps-transform-jsonsplitter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000006",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Split Hourly Timestamps"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "excludeList": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "includeParents": {
+                        "value": false
+                    },
+                    "includePaths": {
+                        "value": []
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "path": {
+                        "value": "jsonPath($, \"Hour[*]\")                                                     "
+                    },
+                    "showNullValues": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000007": {
+            "class_id": "com-snaplogic-snaps-transform-jsonsplitter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000007",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Split Temperature Values"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "excludeList": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "includeParents": {
+                        "value": false
+                    },
+                    "includePaths": {
+                        "value": []
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "path": {
+                        "value": "jsonPath($, \"Temperature[*]\")"
+                    },
+                    "showNullValues": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000008": {
+            "class_id": "com-snaplogic-snaps-transform-multijoin",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000008",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Merge Timestamps with Temperatures"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "input1": {
+                        "label": {
+                            "value": "input1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "availableMemoryThreshold": {
+                        "expression": false,
+                        "value": 20
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "joinPaths": {
+                        "value": [
+                            {
+                                "leftPath": {
+                                    "expression": true,
+                                    "value": null
+                                },
+                                "rightInputView": {
+                                    "value": "input1"
+                                },
+                                "rightPath": {
+                                    "expression": true,
+                                    "value": null
+                                }
+                            }
+                        ]
+                    },
+                    "joinType": {
+                        "value": "Merge"
+                    },
+                    "minimumFreeDiskSpace": {
+                        "expression": false,
+                        "value": 500
+                    },
+                    "minimumMemory": {
+                        "expression": false,
+                        "value": 500
+                    },
+                    "noMatchData": {
+                        "value": false
+                    },
+                    "nullGreater": {
+                        "value": false
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "outOfResourceTimeout": {
+                        "expression": false,
+                        "value": 30
+                    },
+                    "sortedStreams": {
+                        "value": "Ascending"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000009": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000009",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Map Date, Hour, and Temperature Fields"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$input1_splitValue"
+                                        },
+                                        "targetPath": {
+                                            "value": "$Temperature"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$splitValue.toString().split('T')[0]"
+                                        },
+                                        "targetPath": {
+                                            "value": "$Date"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$splitValue.toString().split('T')[1].split(' ')[0]"
+                                        },
+                                        "targetPath": {
+                                            "value": "$Hour"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000a": {
+            "class_id": "com-snaplogic-snaps-flow-copy",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-00000000000a",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Copy Weather Records for Multiple Output Formats"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "output1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output2": {
+                        "label": {
+                            "value": "output2"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output3": {
+                        "label": {
+                            "value": "output3"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000b": {
+            "class_id": "com-snaplogic-snaps-transform-csvformatter",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000b",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Format Weather Data as CSV"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "charset": {
+                        "value": "UTF-8"
+                    },
+                    "delimiter": {
+                        "expression": false,
+                        "value": ","
+                    },
+                    "errorPolicy": {
+                        "value": "Default"
+                    },
+                    "escapeChar": {
+                        "expression": false,
+                        "value": "\\"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "newlineCharacter": {
+                        "value": "LF"
+                    },
+                    "outputHeader": {
+                        "value": [
+                            {
+                                "expression": {
+                                    "expression": true,
+                                    "value": ""
+                                },
+                                "targetPath": {
+                                    "value": null
+                                }
+                            }
+                        ]
+                    },
+                    "quoteCharacter": {
+                        "value": "\""
+                    },
+                    "quoteMode": {
+                        "value": "ALL"
+                    },
+                    "useDefinedHeader": {
+                        "value": false
+                    },
+                    "userDefinedHeader": {
+                        "value": []
+                    },
+                    "writeBOM": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000c": {
+            "class_id": "com-snaplogic-snaps-transform-excelformatter",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000c",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Format Weather Data as Excel"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "convertFormulas": {
+                        "value": false
+                    },
+                    "convertNumericString": {
+                        "value": true
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "includeAllColumns": {
+                        "value": false
+                    },
+                    "translateDateTimeTypes": {
+                        "value": true
+                    },
+                    "writeHeaderProp": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000d": {
+            "class_id": "com-snaplogic-snaps-transform-excelformatter",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000d",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Format Weather Data as Styled Excel"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "convertFormulas": {
+                        "value": false
+                    },
+                    "convertNumericString": {
+                        "value": true
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "includeAllColumns": {
+                        "value": false
+                    },
+                    "sheetNameProp": {
+                        "expression": false,
+                        "value": "Weather"
+                    },
+                    "translateDateTimeTypes": {
+                        "value": true
+                    },
+                    "writeHeaderProp": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000e": {
+            "class_id": "com-snaplogic-snaps-script-script",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-00000000000e",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Collect Weather Records into Array"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "editable_content": {
+                        "value": "\nimport json\n\nclass TransformScript(ScriptHook):\n    def __init__(self):\n        self.records = []\n\n    def process(self, doc):\n        self.records.append(dict(doc))\n        return []\n\n    def cleanup(self):\n        return [{\"weather_data\": self.records}]\n"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Disabled"
+                    },
+                    "language": {
+                        "value": "Python"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000f": {
+            "class_id": "com-snaplogic-snaps-binary-write",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000f",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Write Weather CSV File"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "UserPermissionsKey": {
+                        "value": []
+                    },
+                    "advancedProperties": {
+                        "value": []
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "createDir": {
+                        "value": false
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filename": {
+                        "expression": true,
+                        "value": "\"WeatherForLocation_\" + _p_postalcode +\".csv\" "
+                    },
+                    "flushIntervalKb": {
+                        "value": -1
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "retries": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "validate": {
+                        "value": false
+                    },
+                    "writeEmptyFile": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000010": {
+            "class_id": "com-snaplogic-snaps-binary-write",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000010",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Write Weather Excel File"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "UserPermissionsKey": {
+                        "value": []
+                    },
+                    "advancedProperties": {
+                        "value": []
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "createDir": {
+                        "value": false
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filename": {
+                        "expression": true,
+                        "value": "\"WeatherForLocation_\" + _p_postalcode +\".xlsx\" "
+                    },
+                    "flushIntervalKb": {
+                        "value": -1
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "retries": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "validate": {
+                        "value": false
+                    },
+                    "writeEmptyFile": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000011": {
+            "class_id": "com-snaplogic-snaps-binary-write",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000011",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Write Styled Weather Excel File"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "UserPermissionsKey": {
+                        "value": []
+                    },
+                    "advancedProperties": {
+                        "value": []
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "createDir": {
+                        "value": false
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filename": {
+                        "expression": true,
+                        "value": "\"WeatherForLocation2_\" + _p_postalcode +\".xlsx\" "
+                    },
+                    "flushIntervalKb": {
+                        "value": -1
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "retries": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "validate": {
+                        "value": false
+                    },
+                    "writeEmptyFile": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000012": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000012",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Build API Response"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Disabled"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "_p_postalcode"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.postal_code"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$weather_data"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.forecast"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000013": {
+            "class_id": "com-snaplogic-snaps-transform-jsonformatter",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-000000000013",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Format API Response as JSON"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "contentPath": {
+                        "value": "$"
+                    },
+                    "deriveSchemaLimit": {
+                        "value": "None"
+                    },
+                    "execution_mode": {
+                        "value": "Disabled"
+                    },
+                    "formatSingleDocument": {
+                        "value": false
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "jsonLines": {
+                        "value": false
+                    },
+                    "prettyPrint": {
+                        "value": true
+                    },
+                    "supportTypeExts": {
+                        "value": false
+                    }
+                }
+            }
+        }
+    }
+}

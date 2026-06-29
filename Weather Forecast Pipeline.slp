@@ -1,0 +1,2190 @@
+{
+    "ai_map": {
+        "footprint": "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"
+    },
+    "class_id": "com-snaplogic-pipeline",
+    "class_version": 9,
+    "link_map": {
+        "link367": {
+            "dst_id": "11111111-1111-1111-1111-000000000003",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000002",
+            "src_view_id": "output0"
+        },
+        "link368": {
+            "dst_id": "11111111-1111-1111-1111-000000000004",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000003",
+            "src_view_id": "output0"
+        },
+        "link369": {
+            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000004",
+            "src_view_id": "output0"
+        },
+        "link370": {
+            "dst_id": "11111111-1111-1111-1111-000000000006",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000005",
+            "src_view_id": "output0"
+        },
+        "link373": {
+            "dst_id": "11111111-1111-1111-1111-00000000000a",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000008",
+            "src_view_id": "output1"
+        },
+        "link374": {
+            "dst_id": "11111111-1111-1111-1111-00000000000d",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_view_id": "output0"
+        },
+        "link375": {
+            "dst_id": "11111111-1111-1111-1111-000000000010",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000d",
+            "src_view_id": "output0"
+        },
+        "link376": {
+            "dst_id": "11111111-1111-1111-1111-000000000009",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000008",
+            "src_view_id": "output0"
+        },
+        "link377": {
+            "dst_id": "11111111-1111-1111-1111-00000000000b",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_view_id": "output0"
+        },
+        "link378": {
+            "dst_id": "11111111-1111-1111-1111-00000000000e",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000b",
+            "src_view_id": "output0"
+        },
+        "link379": {
+            "dst_id": "11111111-1111-1111-1111-00000000000c",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_view_id": "output1"
+        },
+        "link380": {
+            "dst_id": "11111111-1111-1111-1111-00000000000f",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000c",
+            "src_view_id": "output0"
+        },
+        "link382": {
+            "dst_id": "11111111-1111-1111-1111-000000000007",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000006",
+            "src_view_id": "output0"
+        },
+        "link383": {
+            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_view_id": "output0"
+        }
+    },
+    "property_map": {
+        "error": {
+            "11111111-1111-1111-1111-000000000000_error0": {
+                "label": {
+                    "value": "HTTP Client - error0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            },
+            "11111111-1111-1111-1111-000000000001_error0": {
+                "label": {
+                    "value": "JSON Splitter - error0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            },
+            "error_behavior": {
+                "value": "none"
+            }
+        },
+        "info": {
+            "author": {
+                "value": "workshops+user51@snaplogic.com"
+            },
+            "label": {},
+            "notes": {
+                "value": null
+            },
+            "pipeline_doc_uri": {
+                "value": null
+            },
+            "purpose": {
+                "value": null
+            }
+        },
+        "input": {
+            "11111111-1111-1111-1111-000000000001_input0": {
+                "label": {
+                    "value": "JSON Splitter - input0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            },
+            "11111111-1111-1111-1111-000000000002_input0": {
+                "label": {
+                    "value": "MapFromJsonToVar - input0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "output": {
+            "11111111-1111-1111-1111-000000000000_output0": {
+                "label": {
+                    "value": "HTTP Client - output0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            },
+            "11111111-1111-1111-1111-000000000001_output0": {
+                "label": {
+                    "value": "JSON Splitter - output0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "settings": {
+            "error_param_table": {
+                "value": []
+            },
+            "error_pipeline": {
+                "expression": false,
+                "value": null
+            },
+            "imports": {
+                "value": []
+            },
+            "param_table": {
+                "value": [
+                    {
+                        "capture": {
+                            "value": false
+                        },
+                        "data_type": {
+                            "value": "string"
+                        },
+                        "description": {
+                            "value": "The postcode used to retrieve location and weather data"
+                        },
+                        "key": {
+                            "value": "postcode"
+                        },
+                        "required": {
+                            "value": true
+                        },
+                        "value": {
+                            "value": "90210"
+                        }
+                    }
+                ]
+            },
+            "tags": {
+                "value": []
+            }
+        }
+    },
+    "render_map": {
+        "default_snaplex": null,
+        "detail_map": {
+            "11111111-1111-1111-1111-000000000000": {
+                "error": {
+                    "error0": {
+                        "dx_int": 0,
+                        "dy_int": -1,
+                        "rot_int": 0
+                    }
+                },
+                "errors": {},
+                "grid_x_int": 1,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000001": {
+                "error": {
+                    "error0": {
+                        "dx_int": 0,
+                        "dy_int": -1,
+                        "rot_int": 0
+                    }
+                },
+                "errors": {},
+                "grid_x_int": 2,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000002": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 3,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000003": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 4,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000004": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 5,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000005": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 6,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000006": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 7,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000007": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 8,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000008": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 9,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {
+                    "output1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000009": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 10,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {
+                    "output1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000a": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 10,
+                "grid_y_int": 5,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000b": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 11,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000c": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 11,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000d": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 11,
+                "grid_y_int": 5,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000e": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000f": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000010": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 12,
+                "grid_y_int": 5,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            }
+        },
+        "pan_x_num": 0,
+        "pan_y_num": 0,
+        "scale_ratio": 1,
+        "snapgpt_extra": {
+            "no_wizard": {
+                "value": true
+            }
+        }
+    },
+    "snap_map": {
+        "11111111-1111-1111-1111-000000000000": {
+            "class_id": "com-snaplogic-snaps-apisuite-httpclient",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000000",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "continue"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "HTTP Client"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {},
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "clientProperties": {
+                        "value": {
+                            "connection": {
+                                "value": {
+                                    "connTimeout": {
+                                        "value": 30
+                                    },
+                                    "cookiePolicy": {
+                                        "value": "RFC Lax"
+                                    },
+                                    "diskStagingProp": {
+                                        "value": false
+                                    },
+                                    "readTimeout": {
+                                        "value": 900
+                                    },
+                                    "trustAllCerts": {
+                                        "value": false
+                                    }
+                                }
+                            },
+                            "outputProps": {
+                                "value": {
+                                    "errorRespToErrorview": {
+                                        "value": true
+                                    },
+                                    "extractEntity": {
+                                        "value": true
+                                    },
+                                    "extractEntityPath": {
+                                        "expression": false,
+                                        "value": "$.entity"
+                                    },
+                                    "includeCookies": {
+                                        "value": false
+                                    },
+                                    "responseType": {
+                                        "value": "JSON"
+                                    }
+                                }
+                            },
+                            "redirects": {
+                                "value": {
+                                    "allowCircularRedirect": {
+                                        "value": false
+                                    },
+                                    "allowRelativeRedirect": {
+                                        "value": true
+                                    },
+                                    "followOriginalMethod": {
+                                        "value": false
+                                    },
+                                    "followRedirection": {
+                                        "value": true
+                                    },
+                                    "maxRedirect": {
+                                        "expression": true,
+                                        "value": 10
+                                    }
+                                }
+                            },
+                            "retry": {
+                                "value": {
+                                    "autoRetry429": {
+                                        "value": true
+                                    },
+                                    "maxRetry": {
+                                        "value": 5
+                                    },
+                                    "retryCondition": {
+                                        "value": "Connection Errors"
+                                    },
+                                    "retryInterval": {
+                                        "value": 3
+                                    },
+                                    "useRetryAfterHeader": {
+                                        "value": true
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "enableDebug": {
+                        "value": true
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "formEncodeSpace": {
+                        "value": false
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "httpEntity": {
+                        "value": {
+                            "binaryFile": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "entityType": {
+                                "value": "none"
+                            },
+                            "multipartForm": {
+                                "value": []
+                            },
+                            "multipartSubtype": {
+                                "expression": false,
+                                "value": "form-data"
+                            },
+                            "rawEntity": {
+                                "expression": false,
+                                "value": "$"
+                            },
+                            "urlEncodedForm": {
+                                "value": []
+                            }
+                        }
+                    },
+                    "httpMethod": {
+                        "expression": false,
+                        "value": "GET"
+                    },
+                    "pagination": {
+                        "value": {
+                            "hasNext": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "maxPage": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "nextUrl": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "overrideHeaders": {
+                                "value": []
+                            },
+                            "overrideParams": {
+                                "value": []
+                            },
+                            "overrideURI": {
+                                "value": false
+                            },
+                            "paginationInterval": {
+                                "value": 0
+                            },
+                            "reuseParamsForPagination": {
+                                "value": false
+                            }
+                        }
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "queryParam": {
+                        "value": []
+                    },
+                    "uri": {
+                        "expression": true,
+                        "value": "'https://api.zippopotam.us/us/' + _postcode"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000001": {
+            "class_id": "com-snaplogic-snaps-transform-jsonsplitter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000001",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "continue"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "JSON Splitter"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "excludeList": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "includeParents": {
+                        "value": true
+                    },
+                    "includePaths": {
+                        "value": []
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "path": {
+                        "value": "$entity.places"
+                    },
+                    "showNullValues": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000002": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000002",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "MapFromJsonToVar"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$['latitude']"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.latitude"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$['longitude']"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.longitude"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$['place name']"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.place_name"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$['state']"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.state"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$['state abbreviation']"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.state_abbreviation"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000003": {
+            "class_id": "com-snaplogic-snaps-apisuite-httpclient",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000003",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Weather API"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "clientProperties": {
+                        "value": {
+                            "connection": {
+                                "value": {
+                                    "connTimeout": {
+                                        "value": 30
+                                    },
+                                    "cookiePolicy": {
+                                        "value": "RFC Lax"
+                                    },
+                                    "diskStagingProp": {
+                                        "value": null
+                                    },
+                                    "readTimeout": {
+                                        "value": 900
+                                    },
+                                    "trustAllCerts": {
+                                        "value": null
+                                    }
+                                }
+                            },
+                            "outputProps": {
+                                "value": {
+                                    "errorRespToErrorview": {
+                                        "value": true
+                                    },
+                                    "extractEntity": {
+                                        "value": true
+                                    },
+                                    "extractEntityPath": {
+                                        "expression": false,
+                                        "value": "$.entity"
+                                    },
+                                    "includeCookies": {
+                                        "value": null
+                                    },
+                                    "responseType": {
+                                        "value": "JSON"
+                                    }
+                                }
+                            },
+                            "redirects": {
+                                "value": {
+                                    "allowCircularRedirect": {
+                                        "value": false
+                                    },
+                                    "allowRelativeRedirect": {
+                                        "value": true
+                                    },
+                                    "followOriginalMethod": {
+                                        "value": null
+                                    },
+                                    "followRedirection": {
+                                        "value": true
+                                    },
+                                    "maxRedirect": {
+                                        "expression": true,
+                                        "value": 10
+                                    }
+                                }
+                            },
+                            "retry": {
+                                "value": {
+                                    "autoRetry429": {
+                                        "value": true
+                                    },
+                                    "maxRetry": {
+                                        "value": 5
+                                    },
+                                    "retryCondition": {
+                                        "value": "Connection Errors"
+                                    },
+                                    "retryInterval": {
+                                        "value": 3
+                                    },
+                                    "useRetryAfterHeader": {
+                                        "value": true
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "enableDebug": {
+                        "value": true
+                    },
+                    "formEncodeSpace": {
+                        "value": false
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "httpEntity": {
+                        "value": {
+                            "binaryFile": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "entityType": {
+                                "value": "none"
+                            },
+                            "multipartForm": {
+                                "value": []
+                            },
+                            "multipartSubtype": {
+                                "expression": false,
+                                "value": "form-data"
+                            },
+                            "rawEntity": {
+                                "expression": false,
+                                "value": "$"
+                            },
+                            "urlEncodedForm": {
+                                "value": []
+                            }
+                        }
+                    },
+                    "httpMethod": {
+                        "expression": false,
+                        "value": "GET"
+                    },
+                    "pagination": {
+                        "value": {
+                            "hasNext": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "maxPage": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "nextUrl": {
+                                "expression": false,
+                                "value": null
+                            },
+                            "overrideHeaders": {
+                                "value": []
+                            },
+                            "overrideParams": {
+                                "value": []
+                            },
+                            "overrideURI": {
+                                "value": null
+                            },
+                            "paginationInterval": {
+                                "value": 0
+                            },
+                            "reuseParamsForPagination": {
+                                "value": null
+                            }
+                        }
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "queryParam": {
+                        "value": [
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "latitude"
+                                },
+                                "paramValProp": {
+                                    "expression": true,
+                                    "value": "$latitude"
+                                }
+                            },
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "longitude"
+                                },
+                                "paramValProp": {
+                                    "expression": true,
+                                    "value": "$longitude"
+                                }
+                            },
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "hourly"
+                                },
+                                "paramValProp": {
+                                    "expression": false,
+                                    "value": "temperature_2m"
+                                }
+                            },
+                            {
+                                "paramKeyProp": {
+                                    "expression": false,
+                                    "value": "temperature_unit"
+                                },
+                                "paramValProp": {
+                                    "expression": false,
+                                    "value": "fahrenheit"
+                                }
+                            }
+                        ]
+                    },
+                    "uri": {
+                        "expression": false,
+                        "value": "https://api.open-meteo.com/v1/forecast"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000004": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000004",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Hour and Temperature"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$entity.hourly.time.map((t, i) => ({'Hour': t, 'Temperature': $entity.hourly.temperature_2m[i]}))"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.rows"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000005": {
+            "class_id": "com-snaplogic-snaps-transform-jsonsplitter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Flatten Rows"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "includeParents": {
+                        "value": false
+                    },
+                    "includePaths": {
+                        "value": []
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "path": {
+                        "value": "$.rows"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000006": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000006",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Enrich with snapmethod"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "_snapmethod"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.snapmethod"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000007": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000007",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "DEBUG - snapmethod value"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$snapmethod"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.debug_snapmethod_field"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "_snapmethod"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.debug_snapmethod_param"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$snapmethod == null ? 'null' : ($snapmethod == undefined ? 'undefined' : 'has_value')"
+                                        },
+                                        "targetPath": {
+                                            "value": "$.debug_snapmethod_null_check"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000008": {
+            "class_id": "com-snaplogic-snaps-flow-router",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-000000000008",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Method Router"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "snapmethod"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "pythonmethod"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "firstMatch": {
+                        "value": true
+                    },
+                    "routes": {
+                        "value": [
+                            {
+                                "expression": {
+                                    "expression": true,
+                                    "value": "$.get('snapmethod') == 'snapmethod'"
+                                },
+                                "outputViewName": {
+                                    "value": "snapmethod"
+                                }
+                            },
+                            {
+                                "expression": {
+                                    "expression": true,
+                                    "value": "$.get('snapmethod') == 'pythonmethod'"
+                                },
+                                "outputViewName": {
+                                    "value": "pythonmethod"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000009": {
+            "class_id": "com-snaplogic-snaps-flow-copy",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000009",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Copy"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "output1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {}
+            }
+        },
+        "11111111-1111-1111-1111-00000000000a": {
+            "class_id": "com-snaplogic-snaps-script-script",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-00000000000a",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Python Excel Generator"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "editable_content": {
+                        "value": "from com.snaplogic.scripting.language import ScriptHook\nfrom java.io import ByteArrayOutputStream\nfrom java.util.zip import ZipOutputStream, ZipEntry\nfrom java.util import Base64\n\nclass ExcelGeneratorHook(ScriptHook):\n    def __init__(self, input, output, error, log):\n        self.input = input\n        self.output = output\n        self.error = error\n        self.log = log\n\n    def execute(self):\n        records = []\n        read_log = []\n        try:\n            self.log.info(\"ExcelGeneratorHook.execute() started\")\n            doc_count = 0\n            try:\n                for doc in self.input:\n                    try:\n                        record = {}\n                        if hasattr(doc, 'entrySet'):\n                            for entry in doc.entrySet():\n                                key = str(entry.getKey())\n                                val = entry.getValue()\n                                if val is None:\n                                    record[key] = \"\"\n                                else:\n                                    try:\n                                        s = str(val)\n                                        record[key] = float(s) if '.' in s else s\n                                    except Exception:\n                                        record[key] = str(val)\n                        elif isinstance(doc, dict):\n                            for k, v in doc.items():\n                                record[str(k)] = v\n                        else:\n                            for k, v in dict(doc).items():\n                                record[str(k)] = v\n                        records.append(record)\n                        read_log.append({\"line\": doc_count + 1, \"raw\": str(record)[:200]})\n                        doc_count += 1\n                        self.log.info(\"Read record {}: {}\".format(doc_count, str(record)[:100]))\n                    except Exception as rec_err:\n                        read_log.append({\"line\": doc_count + 1, \"raw\": \"ERROR reading record: \" + str(rec_err)})\n                        self.log.warn(\"Error reading record {}: {}\".format(doc_count + 1, str(rec_err)))\n            except Exception as iter_err:\n                self.log.error(\"Error iterating input: \" + str(iter_err))\n                self.error.write({\"status\": \"error\", \"stage\": \"input_iteration\", \"message\": str(iter_err)})\n                return\n\n            self.log.info(\"Total records collected: {}\".format(len(records)))\n\n            try:\n                def xml_escape(val):\n                    return str(val).replace(\"&\", \"&amp;\").replace(\"<\", \"&lt;\").replace(\">\", \"&gt;\").replace('\"',\"&quot;\").replace(\"'\",\"&apos;\")\n\n                def col_letter(idx):\n                    return chr(ord('A') + idx)\n\n                def build_sheet_xml(sheet_name_unused, headers, rows_data):\n                    sheet_rows = []\n                    header_cells = \"\"\n                    for col_idx, hdr in enumerate(headers):\n                        cell_ref = \"{}1\".format(col_letter(col_idx))\n                        header_cells += '<c r=\"{}\" t=\"inlineStr\"><is><t>{}</t></is></c>'.format(cell_ref, xml_escape(hdr))\n                    sheet_rows.append('<row r=\"1\">{}</row>'.format(header_cells))\n                    for row_idx, row_rec in enumerate(rows_data, start=2):\n                        row_cells = \"\"\n                        for col_idx, hdr in enumerate(headers):\n                            cell_ref = \"{}{}\".format(col_letter(col_idx), row_idx)\n                            val = row_rec.get(hdr, \"\") if hasattr(row_rec, 'get') else \"\"\n                            if val is None:\n                                val = \"\"\n                            if hdr == \"Temperature\":\n                                try:\n                                    num_val = float(str(val))\n                                    row_cells += '<c r=\"{}\"><v>{}</v></c>'.format(cell_ref, num_val)\n                                except Exception:\n                                    row_cells += '<c r=\"{}\" t=\"inlineStr\"><is><t>{}</t></is></c>'.format(cell_ref, xml_escape(val))\n                            else:\n                                row_cells += '<c r=\"{}\" t=\"inlineStr\"><is><t>{}</t></is></c>'.format(cell_ref, xml_escape(val))\n                        sheet_rows.append('<row r=\"{}\">{}</row>'.format(row_idx, row_cells))\n                    return (\n                        '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                        '<worksheet xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\">'\n                        '<sheetData>' + \"\".join(sheet_rows) + '</sheetData></worksheet>'\n                    )\n\n                weather_headers = [\"Hour\", \"Temperature\"]\n                sheet1_xml = build_sheet_xml(\"Weather Data\", weather_headers, records)\n\n                rows_read_headers = [\"Line\", \"Row Data\"]\n                rows_read_data = [{\"Line\": str(r[\"line\"]), \"Row Data\": r[\"raw\"]} for r in read_log]\n                sheet2_xml = build_sheet_xml(\"Rows Read\", rows_read_headers, rows_read_data)\n\n            except Exception as build_err:\n                self.log.error(\"Error building sheet XML: \" + str(build_err))\n                self.error.write({\"status\": \"error\", \"stage\": \"build_xml\", \"message\": str(build_err)})\n                return\n\n            try:\n                content_types_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<Types xmlns=\"http://schemas.openxmlformats.org/package/2006/content-types\">'\n                    '<Default Extension=\"rels\" ContentType=\"application/vnd.openxmlformats-package.relationships+xml\"/>'\n                    '<Default Extension=\"xml\" ContentType=\"application/xml\"/>'\n                    '<Override PartName=\"/xl/workbook.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml\"/>'\n                    '<Override PartName=\"/xl/worksheets/sheet1.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/>'\n                    '<Override PartName=\"/xl/worksheets/sheet2.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml\"/>'\n                    '<Override PartName=\"/xl/styles.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml\"/>'\n                    '<Override PartName=\"/docProps/app.xml\" ContentType=\"application/vnd.openxmlformats-officedocument.extended-properties+xml\"/>'\n                    '<Override PartName=\"/docProps/core.xml\" ContentType=\"application/vnd.openxmlformats-package.core-properties+xml\"/>'\n                    '</Types>'\n                )\n\n                rels_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<Relationships xmlns=\"http://schemas.openxmlformats.org/package/2006/relationships\">'\n                    '<Relationship Id=\"rId1\" Type=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument\" Target=\"xl/workbook.xml\"/>'\n                    '<Relationship Id=\"rId2\" Type=\"http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties\" Target=\"docProps/core.xml\"/>'\n                    '<Relationship Id=\"rId3\" Type=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties\" Target=\"docProps/app.xml\"/>'\n                    '</Relationships>'\n                )\n\n                workbook_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<workbook xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" '\n                    'xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\">'\n                    '<sheets>'\n                    '<sheet name=\"Weather Data\" sheetId=\"1\" r:id=\"rId1\"/>'\n                    '<sheet name=\"Rows Read\" sheetId=\"2\" r:id=\"rId2\"/>'\n                    '</sheets></workbook>'\n                )\n\n                workbook_rels_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<Relationships xmlns=\"http://schemas.openxmlformats.org/package/2006/relationships\">'\n                    '<Relationship Id=\"rId1\" Type=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet\" Target=\"worksheets/sheet1.xml\"/>'\n                    '<Relationship Id=\"rId2\" Type=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet\" Target=\"worksheets/sheet2.xml\"/>'\n                    '<Relationship Id=\"rId3\" Type=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles\" Target=\"styles.xml\"/>'\n                    '</Relationships>'\n                )\n\n                styles_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<styleSheet xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\">'\n                    '<fonts count=\"1\"><font><sz val=\"11\"/><name val=\"Calibri\"/></font></fonts>'\n                    '<fills count=\"2\"><fill><patternFill patternType=\"none\"/></fill><fill><patternFill patternType=\"gray125\"/></fill></fills>'\n                    '<borders count=\"1\"><border><left/><right/><top/><bottom/><diagonal/></border></borders>'\n                    '<cellStyleXfs count=\"1\"><xf numFmtId=\"0\" fontId=\"0\" fillId=\"0\" borderId=\"0\"/></cellStyleXfs>'\n                    '<cellXfs count=\"1\"><xf numFmtId=\"0\" fontId=\"0\" fillId=\"0\" borderId=\"0\" xfId=\"0\"/></cellXfs>'\n                    '</styleSheet>'\n                )\n\n                app_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/extended-properties\">'\n                    '<Application>SnapLogic</Application></Properties>'\n                )\n\n                core_xml = (\n                    '<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\\n'\n                    '<cp:coreProperties xmlns:cp=\"http://schemas.openxmlformats.org/package/2006/metadata/core-properties\" '\n                    'xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:creator>SnapLogic</dc:creator></cp:coreProperties>'\n                )\n\n                baos= ByteArrayOutputStream()\n                zos = ZipOutputStream(baos)\n\n                def write_zip_entry(name, content):\n                    try:\n                        entry = ZipEntry(name)\n                        zos.putNextEntry(entry)\n                        data = content.encode(\"utf-8\")\n                        zos.write(data, 0, len(data))\n                        zos.closeEntry()\n                    except Exception as ze:\n                        self.log.error(\"Error writing zip entry {}: {}\".format(name, str(ze)))\n                        raise ze\n\n                write_zip_entry(\"[Content_Types].xml\", content_types_xml)\n                write_zip_entry(\"_rels/.rels\", rels_xml)\n                write_zip_entry(\"xl/workbook.xml\", workbook_xml)\n                write_zip_entry(\"xl/_rels/workbook.xml.rels\", workbook_rels_xml)\n                write_zip_entry(\"xl/worksheets/sheet1.xml\", sheet1_xml)\n                write_zip_entry(\"xl/worksheets/sheet2.xml\", sheet2_xml)\n                write_zip_entry(\"xl/styles.xml\", styles_xml)\n                write_zip_entry(\"docProps/app.xml\", app_xml)\n                write_zip_entry(\"docProps/core.xml\", core_xml)\n\n                zos.finish()\n                zos.close()\n\n                xlsx_bytes = baos.toByteArray()\n                b64_str = Base64.getEncoder().encodeToString(xlsx_bytes)\n\n                self.output.write({\n                    \"status\": \"success\",\n                    \"file\": \"weather_output.xlsx\",\n                    \"rows_written\": len(records),\n                    \"rows_read\": len(read_log),\n                    \"content\": b64_str\n                })\n\n            except Exception as zip_err:\n                self.log.error(\"Error building/writing ZIP: \" + str(zip_err))\n                self.error.write({\"status\": \"error\", \"stage\": \"zip_write\", \"message\": str(zip_err)})\n                return\n\n        except Exception as outer_err:\n            self.log.error(\"Unhandled error in execute(): \" + str(outer_err))\n            self.error.write({\"status\": \"error\", \"stage\": \"outer\", \"message\": str(outer_err)})\n\n    def cleanup(self):\n        pass\n\nhook = ExcelGeneratorHook(input, output, error, log)\n"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "language": {
+                        "value": "Python"
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000b": {
+            "class_id": "com-snaplogic-snaps-transform-excelformatter",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000b",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Excel Formatter"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "convertNumericString": {
+                        "value": true
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "sheetNameProp": {
+                        "expression": false,
+                        "value": "Weather Data"
+                    },
+                    "writeHeaderProp": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000c": {
+            "class_id": "com-snaplogic-snaps-transform-csvformatter",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000c",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "CSV Formatter"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "charset": {
+                        "value": "UTF-8"
+                    },
+                    "delimiter": {
+                        "expression": false,
+                        "value": ","
+                    },
+                    "errorPolicy": {
+                        "value": "Default"
+                    },
+                    "escapeChar": {
+                        "expression": false,
+                        "value": "\\"
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "newlineCharacter": {
+                        "value": "LF"
+                    },
+                    "outputHeader": {
+                        "value": []
+                    },
+                    "quoteCharacter": {
+                        "value": "\""
+                    },
+                    "quoteMode": {
+                        "value": "MINIMAL"
+                    },
+                    "useDefinedHeader": {
+                        "value": false
+                    },
+                    "userDefinedHeader": {
+                        "value": []
+                    },
+                    "writeBOM": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": true
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000d": {
+            "class_id": "com-snaplogic-snaps-transform-jsonformatter",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-00000000000d",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "JSON Formatter"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "contentPath": {
+                        "value": "$"
+                    },
+                    "deriveSchemaLimit": {
+                        "value": "None"
+                    },
+                    "formatSingleDocument": {
+                        "value": false
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    },
+                    "jsonLines": {
+                        "value": false
+                    },
+                    "prettyPrint": {
+                        "value": true
+                    },
+                    "supportTypeExts": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000e": {
+            "class_id": "com-snaplogic-snaps-binary-write",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000e",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Excel File Writer"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "UserPermissionsKey": {
+                        "value": []
+                    },
+                    "advancedProperties": {
+                        "value": []
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "createDir": {
+                        "value": false
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filename": {
+                        "expression": true,
+                        "value": "'snap_weather_output_' + _postcode + '.xlsx'"
+                    },
+                    "flushIntervalKb": {
+                        "value": -1
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "retries": {
+                        "expression": true,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": true,
+                        "value": 1
+                    },
+                    "validate": {
+                        "value": false
+                    },
+                    "writeEmptyFile": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-00000000000f": {
+            "class_id": "com-snaplogic-snaps-binary-write",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-00000000000f",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "CSV File Writer"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "UserPermissionsKey": {
+                        "value": []
+                    },
+                    "advancedProperties": {
+                        "value": []
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "createDir": {
+                        "value": false
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filename": {
+                        "expression": true,
+                        "value": "'snapweather_output_' + _postcode + '.csv'"
+                    },
+                    "flushIntervalKb": {
+                        "value": -1
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "retries": {
+                        "expression": true,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": true,
+                        "value": 1
+                    },
+                    "validate": {
+                        "value": false
+                    },
+                    "writeEmptyFile": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": false
+                    }
+                }
+            }
+        },
+        "11111111-1111-1111-1111-000000000010": {
+            "class_id": "com-snaplogic-snaps-binary-write",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000010",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Python Excel File Writer"
+                    },
+                    "notes": {
+                        "value": ""
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "UserPermissionsKey": {
+                        "value": []
+                    },
+                    "advancedProperties": {
+                        "value": []
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filename": {
+                        "expression": true,
+                        "value": "'python_weather_python_output_' + _postcode + '.json'"
+                    },
+                    "flushIntervalKb": {
+                        "value": -1
+                    },
+                    "preventURLEncoding": {
+                        "value": false
+                    },
+                    "retries": {
+                        "expression": true,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": true,
+                        "value": 1
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "ConvertCSVtoJSONTask",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "notification": {
+            "recipients": "daniel@seguin.dev",
+            "states": [
+                "Completed"
+            ]
+        },
+        "pipeline_parameters": {
+            "Department": "Sales",
+            "filename": "weatherpostalcodefromtriggeredtask"
+        },
+        "pipeline_path": "Convert CSV to JSON",
+        "snaplex_path": "AutoSync"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}

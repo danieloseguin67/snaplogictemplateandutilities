@@ -1,0 +1,28 @@
+{
+    "class_id": "com-snaplogic-pipeline",
+    "class_version": 9,
+    "link_map": {},
+    "property_map": {
+        "error": {
+            "error_behavior": {
+                "value": "none"
+            }
+        },
+        "info": {
+            "author": {
+                "value": "workshops+user51@snaplogic.com"
+            },
+            "label": {}
+        },
+        "input": {},
+        "output": {}
+    },
+    "render_map": {
+        "default_snaplex": null,
+        "detail_map": {},
+        "pan_x_num": 0,
+        "pan_y_num": 0,
+        "scale_ratio": 1
+    },
+    "snap_map": {}
+}

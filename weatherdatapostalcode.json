@@ -1,0 +1,49 @@
+{
+	"pipeline_overview": "This pipeline retrieves location information based on a given postcode and uses it to fetch hourly weather forecast data. It first calls a postal code API to obtain geographic coordinates and place details, then queries a weather API using those coordinates to retrieve hourly temperature data in Fahrenheit. The resulting data is flattened and exported in two formats simultaneously: an Excel file and a CSV file, both named after the input postcode.",
+	"snap_summary": [
+		{
+			"snap": "HTTP Client",
+			"description": "Sends a GET request to the Zippopotam API using the pipeline parameter _postcode to retrieve location data for the given US postal code, and extracts the JSON response entity."
+		},
+		{
+			"snap": "JSON Splitter",
+			"description": "Splits the JSON response by iterating over the $entity.places array, producing one document per place entry."
+		},
+		{
+			"snap": "MapFromJsonToVar",
+			"description": "Maps fields from the place entry to simplified variable names, extracting latitude, longitude, city, state, and state abbreviation."
+		},
+		{
+			"snap": "Weather API",
+			"description": "Sends a GET request to the Open-Meteo forecast API using the latitude and longitude from the previous snap as query parameters, requesting hourly temperature data in Fahrenheit, and extracts the JSON response entity."
+		},
+		{
+			"snap": "Hour and Temperature",
+			"description": "Maps the hourly forecast data by zipping the time and temperature arrays into an array of objects, each containing an Hour and Temperature field, and stores the result in $.rows."
+		},
+		{
+			"snap": "Flatten Rows",
+			"description": "Splits the $.rows array, producing one document per hourly time-temperature pair."
+		},
+		{
+			"snap": "Copy",
+			"description": "Duplicates the stream of flattened hourly weather records, sending one copy to the Excel formatter and another to the CSV formatter."
+		},
+		{
+			"snap": "Excel Formatter",
+			"description": "Formats the incoming data into an Excel workbook with a sheet named Weather Data."
+		},
+		{
+			"snap": "Excel File Writer",
+			"description": "Writes the formatted Excel data to a file named weather_output_<postcode>.xlsx, overwriting any existing file."
+		},
+		{
+			"snap": "CSV Formatter",
+			"description": "Formats the incoming data as a CSV file using comma delimiters, double-quote characters, minimal quoting, UTF-8 encoding, and LF newline characters."
+		},
+		{
+			"snap": "CSV File Writer",
+			"description": "Writes the formatted CSV data to a file named weather_output_<postcode>.csv, overwriting any existing file."
+		}
+	]
+}
